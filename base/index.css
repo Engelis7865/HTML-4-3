@@ -61,9 +61,9 @@ body
 .header__title
 {
     overflow: visible;
-    font-family: EngrvrsOldEng BT;
+    font-family: 'EngrvrsOldEng BT';
     src:url(./engravers_old_english_bt.ttf);
-    font-size: 85px;
+    font-size: 5em;
     text-align: center;
     font-weight: bold;
     margin: 0;
